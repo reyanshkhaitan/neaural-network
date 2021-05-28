@@ -1,0 +1,28 @@
+body {
+    color:rgb(0, 89, 255);
+    background-color: orangered;
+}
+
+.heading {
+    width : 80%;
+    font-size: 22 px;
+}
+
+.name_of_objects {
+  color:white;
+  font-size: 20px;
+  font-family:cursive;
+}
+
+#camera {
+    border: 10px ridge white;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name,#result_accuracy_value {
+    color:white;
+    font-size: 20px;
+    font-family:monospace;
+  }
+
